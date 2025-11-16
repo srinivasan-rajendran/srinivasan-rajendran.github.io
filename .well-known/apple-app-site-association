@@ -1,5 +1,7 @@
 {
-    "webcredentials": {
-      "apps": ["59PKSR6X25.com.example.apple-samplecode.FastPasskeyAccountCreation59PKSR6X25"]
-    }
+  "webcredentials": {
+    "apps": [
+      "59PKSR6X25.com.example.apple-samplecode.FastPasskeyAccountCreation59PKSR6X25"
+    ]
+  }
 }
